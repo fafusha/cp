@@ -1,0 +1,30 @@
+PROBELMSET 1
+1. Elephant 617A
+https://codeforces.com/problemset/problem/617/A
+
+2. Drinks 200B
+https://codeforces.com/problemset/problem/200/B
+
+3. Divisibility Problem 1328A
+https://codeforces.com/problemset/problem/1328/A
+
+4. Required Remainder 1374A
+https://codeforces.com/problemset/problem/1374/A
+
+5. Array with Odd Sum 1296A
+https://codeforces.com/problemset/problem/1296/A
+
+6. Again Twenty Five! 630A
+https://codeforces.com/problemset/problem/630/A
+
+7. Minutes Before the New Year 1283A
+https://codeforces.com/problemset/problem/1283/A
+
+8. Sea Battle 1131A
+https://codeforces.com/problemset/problem/1131/A
+
+9. Elections 1043A
+https://codeforces.com/problemset/problem/1043/A
+
+10. Even Odds 318A
+https://codeforces.com/problemset/problem/318/A
