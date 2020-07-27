@@ -1,0 +1,29 @@
+1. Beautiful Year 217A
+https://codeforces.com/problemset/problem/271/A
+
+2. Choosing teams 432A
+https://codeforces.com/problemset/problem/432/A
+
+3. Team Olympiad 490A
+https://codeforces.com/problemset/problem/490/A
+
+4. Ichihime and Triangle 1337A
+https://codeforces.com/problemset/problem/1337/A
+
+5. Nearest Interesting Number 1183A
+https://codeforces.com/problemset/problem/1183/A
+
+6. Heist 1041A
+https://codeforces.com/problemset/problem/1041/A
+
+7. Coins 1061A
+https://codeforces.com/problemset/problem/1061/A
+
+8. Nastya and an Array 992A
+https://codeforces.com/problemset/problem/992/A
+
+9. Vasya and Socks 460A
+https://codeforces.com/problemset/problem/460/A
+
+10. Arrays 572A
+https://codeforces.com/problemset/problem/572/A
