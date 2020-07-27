@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    int a, b, k, m, inp;
+    long long a, b, k, m, inp;
     cin >> a >> b >> k >> m;
     vector<int> va, vb;
     for (int i = 0; i < a; ++i){
@@ -14,7 +14,7 @@ int main(){
         cin >> inp;
         vb.push_back(inp);
     }
-    if(va[k-1] < vb[0]){
+    if(va[k - 1] < vb[0] || va[k - 1] < vb[b - m]){
         cout << "YES" << endl;
     } else {
         cout << "NO" << endl;
